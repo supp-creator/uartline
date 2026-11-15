@@ -48,7 +48,7 @@ That way I can check out if it would actually work, and make it look more human-
 
 **Windows:** `winget install --id Git.Git -e --source winget` 
 
-Fuck is that, Microsoft?
+_Fuck is that, Microsoft?_
 
 **Linux:** Lmao, sure. YOU use Linux.
 
@@ -73,7 +73,7 @@ git clone <repository-url>
 I highly recommend setting up SSH or your GitHub account first.
 
 
-.
+
 
 
 3. Daily Workflow
@@ -99,10 +99,10 @@ I highly recommend setting up SSH or your GitHub account first.
     git commit -m "Input description of what you did."
     ```
 
-    By commiting a change, you've essentially placed a checkpoint on it that you can go back to at any time.
+    By committing a change, you've essentially placed a checkpoint on it that you can go back to at any time.
 
 
-.
+
 
 
 4. Updating the rest of us on your work.
@@ -114,7 +114,7 @@ I highly recommend setting up SSH or your GitHub account first.
     ```
 
 
-.
+
 
 
 
