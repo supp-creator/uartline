@@ -1,9 +1,9 @@
- # Real-Time Signal Processing Systems.
+ # Performance Evaluation of UART Serial Interface in Real-Time Signal Processing Systems.
 <br></br>
-## Digital Communications Final Project Group 9
+## DIGDACM Final Project Group 9
 
 <br></br>
-**DUE DATE: DECEMBER 12, 2026 @ 23:59**
+**Due date: DECEMBER 12, 2026 @ 23:59**
 <br></br>
 
 ### INTERNAL TASKS ASSIGNMENTS
